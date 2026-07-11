@@ -1,0 +1,6 @@
+{
+  "name": "Super Pixel Adventure",
+  "description": "A high-quality 2D side-scrolling platformer with physics, particles, weather effects, 10 levels, power-ups, audio synthesizer, and local progress saving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
